@@ -12,6 +12,8 @@ This repository contains a Power BI report focused on analyzing crime patterns a
 - **Geographical Insights:** Interactive maps showing crime hotspots and sector-wise distribution.  
 - **Comparative Analysis:** Identification of high-crime areas through sector comparisons.  
   
+![image](https://github.com/user-attachments/assets/afbb914f-a287-4c30-826e-82b2480af3c8)
+
 
 ## Data Sources  
 
